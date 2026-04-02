@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="128" height="128" alt="KoroneVoidStrap Logo" src="https://github.com/Idksui/PonussKoroneStrap/blob/main/PonussKoroneStrap/486334643-c0477fe6-8ed3-48dc-9404-ff9463d542ca.jpg?raw=true" />
+  <img width="128" height="128" alt="KoroneVoidStrap Logo" src="https://github.com/vmdx1337/KoroneVoidStrap/blob/main/image-1.jpg?raw=true" />
 </p>
 <h1 align="center">KoroneVoidStrap</h1>
 
