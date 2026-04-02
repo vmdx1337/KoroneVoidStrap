@@ -19,9 +19,6 @@
 
 ---
 
-> [!IMPORTANT]  
-> **Void is now the default.** The interface has been recalibrated for deep-space aesthetics. You can still access "Cyberpunk" and "Purple" themes in the **Design** settings.
-
 > [!TIP]
 > To achieve maximum performance, ensure you apply the FastFlags after selection. The bootstrapper automatically targets the 265 FPS cap for you.
 
