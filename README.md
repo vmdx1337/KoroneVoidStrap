@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="128" height="128" alt="KoroneVoidStrap Logo" src="https://github.com/vmdx1337/KoroneVoidStrap/blob/main/34ed59d9-b8d6-44a9-af4f-778f920daf13.png?raw=true" />
+  <img width="128" height="128" alt="KoroneVoidStrap Logo" src="https://github.com/vmdx1337/KoroneVoidStrap/blob/main/assets/imazge.png?raw=true" />
 </p>
 <h1 align="center">KoroneVoidStrap</h1>
 
 <p align="center">
-  <i>A transcended bootstrapper from the Void, featuring advanced FastFlags and high-performance optimizations.</i>
+  <i>A bootstrapper from the Void, featuring advanced FastFlags and high-performance optimizations.</i>
 </p>
 
 <p align="center">
@@ -33,13 +33,20 @@
 
 ---
 
+## 📺 Showcase
+<p align="center">
+  <img src="https://github.com/vmdx1337/KoroneVoidStrap/blob/main/assets/image.png?raw=true" width="55%" alt="Main Interface" />
+</p>
+
+---
+
 ## 🛠️ Installation & Requirements
 
 ### For Users (Recommended)
 Just download and run the **KoroneVoidStrap.exe** from the [Releases](https://github.com/vmdx1337/KoroneVoidStrap/releases) section. No setup required.
 
 ### For Developers / Manual Run
-- **Python 3.x**
+- **Python 3.11**
 - **Pillow (PIL):** Essential for asset management and UI rendering.
   ```bash
   pip install Pillow
